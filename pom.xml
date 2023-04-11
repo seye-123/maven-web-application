@@ -33,7 +33,7 @@
      <repository> 
        <id>nexus</id>
        <name>nexus proxy repo</name>
-       <url>http://34.229.97.133:8081/repository/mavenweb-proxy/</url>
+       <url>http://54.80.159.251:8081/repository/jenkins-shared-proxy/</url>
      </repository>
    </repositories>
 
